@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5585EA-CF92-49AF-B7E3-E144789D9DE1}|ProyectoEncodeApi\\ProyectoEncodeApi.csproj|D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\proyectoencodeapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5585EA-CF92-49AF-B7E3-E144789D9DE1}|ProyectoEncodeApi\\ProyectoEncodeApi.csproj|solutionrelative:proyectoencodeapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16344325-BEA5-46EB-866B-A02C5A95917E}|docker-compose.dcproj|d:\\_datos de usuario\\pc\\documents\\jose\\proyectoencodeapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{16344325-BEA5-46EB-866B-A02C5A95917E}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F2E5D8-E7BB-4076-883D-DDB2D6071FC2}|Entities\\Entities.csproj|D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\entities\\datacontext\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F2E5D8-E7BB-4076-883D-DDB2D6071FC2}|Entities\\Entities.csproj|solutionrelative:entities\\datacontext\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9948B3-E839-4277-8612-C001A998EEC3}|Elementos de la soluci\u00F3n{FE9948B3-E839-4277-8612-C001A998EEC3}|D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{FE9948B3-E839-4277-8612-C001A998EEC3}|Elementos de la soluci\u00F3n{FE9948B3-E839-4277-8612-C001A998EEC3}|solutionrelative:init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5585EA-CF92-49AF-B7E3-E144789D9DE1}|ProyectoEncodeApi\\ProyectoEncodeApi.csproj|D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\proyectoencodeapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9F5585EA-CF92-49AF-B7E3-E144789D9DE1}|ProyectoEncodeApi\\ProyectoEncodeApi.csproj|solutionrelative:proyectoencodeapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16344325-BEA5-46EB-866B-A02C5A95917E}|docker-compose.dcproj|D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16344325-BEA5-46EB-866B-A02C5A95917E}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5585EA-CF92-49AF-B7E3-E144789D9DE1}|ProyectoEncodeApi\\ProyectoEncodeApi.csproj|D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\proyectoencodeapi\\controllers\\usercontrolls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5585EA-CF92-49AF-B7E3-E144789D9DE1}|ProyectoEncodeApi\\ProyectoEncodeApi.csproj|solutionrelative:proyectoencodeapi\\controllers\\usercontrolls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4978D0D-7685-4139-A6F7-36DEEE068E7C}|DataAccess\\DataAccess.csproj|D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\dataaccess\\generic\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4978D0D-7685-4139-A6F7-36DEEE068E7C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\generic\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4978D0D-7685-4139-A6F7-36DEEE068E7C}|DataAccess\\DataAccess.csproj|D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\dataaccess\\generic\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4978D0D-7685-4139-A6F7-36DEEE068E7C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\generic\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F2E5D8-E7BB-4076-883D-DDB2D6071FC2}|Entities\\Entities.csproj|D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\entities\\domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F2E5D8-E7BB-4076-883D-DDB2D6071FC2}|Entities\\Entities.csproj|solutionrelative:entities\\domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5585EA-CF92-49AF-B7E3-E144789D9DE1}|ProyectoEncodeApi\\ProyectoEncodeApi.csproj|D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\proyectoencodeapi\\middleware\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5585EA-CF92-49AF-B7E3-E144789D9DE1}|ProyectoEncodeApi\\ProyectoEncodeApi.csproj|solutionrelative:proyectoencodeapi\\middleware\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5585EA-CF92-49AF-B7E3-E144789D9DE1}|ProyectoEncodeApi\\ProyectoEncodeApi.csproj|D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\proyectoencodeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5585EA-CF92-49AF-B7E3-E144789D9DE1}|ProyectoEncodeApi\\ProyectoEncodeApi.csproj|solutionrelative:proyectoencodeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 553,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\ProyectoEncodeApi\\Dockerfile",
+              "RelativeDocumentMoniker": "ProyectoEncodeApi\\Dockerfile",
+              "ToolTip": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\ProyectoEncodeApi\\Dockerfile",
+              "RelativeToolTip": "ProyectoEncodeApi\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-29T21:47:08.806Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1217066271:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControlls.cs",
+              "DocumentMoniker": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\ProyectoEncodeApi\\Controllers\\UserControlls.cs",
+              "RelativeDocumentMoniker": "ProyectoEncodeApi\\Controllers\\UserControlls.cs",
+              "ToolTip": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\ProyectoEncodeApi\\Controllers\\UserControlls.cs",
+              "RelativeToolTip": "ProyectoEncodeApi\\Controllers\\UserControlls.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:11:46.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\Entities\\DataContext\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\DataContext\\ApiDbContext.cs",
+              "ToolTip": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\Entities\\DataContext\\ApiDbContext.cs",
+              "RelativeToolTip": "Entities\\DataContext\\ApiDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:56:39.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-30T21:55:59.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\ProyectoEncodeApi\\Startup.cs",
+              "RelativeDocumentMoniker": "ProyectoEncodeApi\\Startup.cs",
+              "ToolTip": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\ProyectoEncodeApi\\Startup.cs",
+              "RelativeToolTip": "ProyectoEncodeApi\\Startup.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAApwBEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:16:53.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T21:55:55.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "init.sql ",
+              "DocumentMoniker": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\init.sql",
+              "RelativeDocumentMoniker": "init.sql",
+              "ToolTip": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\init.sql",
+              "RelativeToolTip": "init.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-30T23:29:15.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\DataAccess\\Generic\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Generic\\IGenericRepository.cs",
+              "ToolTip": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\DataAccess\\Generic\\IGenericRepository.cs",
+              "RelativeToolTip": "DataAccess\\Generic\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:58:51.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\DataAccess\\Generic\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Generic\\IUnitOfWork.cs",
+              "ToolTip": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\DataAccess\\Generic\\IUnitOfWork.cs",
+              "RelativeToolTip": "DataAccess\\Generic\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:58:30.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\Entities\\Domain\\Usuario.cs",
+              "RelativeDocumentMoniker": "Entities\\Domain\\Usuario.cs",
+              "ToolTip": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\Entities\\Domain\\Usuario.cs",
+              "RelativeToolTip": "Entities\\Domain\\Usuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:56:53.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IoC.cs",
+              "DocumentMoniker": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\ProyectoEncodeApi\\Middleware\\IoC.cs",
+              "RelativeDocumentMoniker": "ProyectoEncodeApi\\Middleware\\IoC.cs",
+              "ToolTip": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\ProyectoEncodeApi\\Middleware\\IoC.cs",
+              "RelativeToolTip": "ProyectoEncodeApi\\Middleware\\IoC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:10:08.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\ProyectoEncodeApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoEncodeApi\\Program.cs",
+              "ToolTip": "D:\\_Datos de usuario\\PC\\Documents\\JOSE\\ProyectoEncodeApi\\ProyectoEncodeApi\\Program.cs",
+              "RelativeToolTip": "ProyectoEncodeApi\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA0wCAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:18:45.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

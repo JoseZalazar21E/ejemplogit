@@ -1,0 +1,33 @@
+services:
+  proyectoencodeapi:
+    image: ${DOCKER_REGISTRY-}proyectoencodeapi
+    build:
+      context: .
+      dockerfile: ProyectoEncodeApi/Dockerfile
+    ports:
+      - "5000:8080"
+      - "5001:8081"
+    depends_on:
+      - mysql
+    networks:
+      - app-network
+
+  mysql:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: Josejose2003.
+      MYSQL_DATABASE: dbEncode
+    volumes:
+      - mysql-data:/var/lib/mysql
+      #- ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+        - "3307:3306"
+    networks:
+        - app-network
+
+volumes:
+  mysql-data:
+
+networks:
+  app-network:
+    driver: bridge           

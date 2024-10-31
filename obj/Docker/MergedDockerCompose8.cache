@@ -1,0 +1,69 @@
+name: dockercompose2666683761127017039
+services:
+  mysql:
+    environment:
+      MYSQL_DATABASE: dbEncode
+      MYSQL_ROOT_PASSWORD: Josejose2003.
+    image: mysql:8.0
+    networks:
+      app-network: null
+    ports:
+      - mode: ingress
+        target: 3306
+        published: "3307"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: mysql-data
+        target: /var/lib/mysql
+        volume: {}
+  proyectoencodeapi:
+    build:
+      context: D:\_Datos de usuario\PC\Documents\JOSE\ProyectoEncodeApi
+      dockerfile: ProyectoEncodeApi/Dockerfile
+    depends_on:
+      mysql:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: proyectoencodeapi
+    networks:
+      app-network: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "5000"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "5001"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\PC\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\PC\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  app-network:
+    name: dockercompose2666683761127017039_app-network
+    driver: bridge
+volumes:
+  mysql-data:
+    name: dockercompose2666683761127017039_mysql-data
